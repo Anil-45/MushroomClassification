@@ -1,0 +1,30 @@
+{	
+	"file_name": "mushroom_08012020_120000.csv",
+	"date_stamp_len": 8,
+	"time_stamp_len": 6,
+	"number_of_columns" : 22,
+	"column_dict": {
+		"cap-shape": "varchar",
+		"cap-surface": "varchar",
+		"cap-color": "varchar",
+		"bruises%3F": "varchar",
+		"odor": "varchar",
+		"gill-attachment": "varchar",
+		"gill-spacing": "varchar",
+		"gill-size": "varchar",
+		"gill-color": "varchar",
+		"stalk-shape": "varchar",
+		"stalk-root": "varchar",
+		"stalk-surface-above-ring": "varchar",
+		"stalk-surface-below-ring": "varchar",
+		"stalk-color-above-ring": "varchar",
+		"stalk-color-below-ring": "varchar",
+		"veil-type": "varchar",
+		"veil-color": "varchar",
+		"ring-number": "varchar",
+		"ring-type": "varchar",
+		"spore-print-color": "varchar",
+		"population": "varchar",
+		"habitat": "varchar"
+	}
+}
